@@ -1,0 +1,16 @@
+#listaValores{
+	text-align: center;
+	text-decoration: none;
+	text-transform: none;
+
+}
+#mainTitles{
+	font-size: 35px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #005C9C;
+}
+#secondaryTitles{
+	font-size: 25px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #005C9C;
+}
