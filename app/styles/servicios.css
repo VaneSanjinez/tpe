@@ -1,0 +1,23 @@
+#mainTitles{
+	font-size: 36px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #005C9C;
+}
+#servicesList{
+	font-size: 24px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: black;
+	font-variant: inherit;
+	font-weight: 500;
+}
+#serviceDescription{
+	font-size: 15px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #032731;
+	font-style: normal;
+}
+#mainTitles1{
+	font-size: 32px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #005C9C;
+}
