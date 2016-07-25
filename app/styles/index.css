@@ -11,5 +11,20 @@
 #mainTitles{
 	font-size: 38px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	color: #08618E;
+	color: white;
+}/*
+#bs-example-navbar-collapse-1{
+	background-color: black;
+}
+.navbar{
+	background-color: black;
+}
+
+.navbar-default .navbar-nav > li > a:focus {color: #f1f1f1; background-color: black;}
+.collapsing, .in {background-color: black;}
+.collapsing ul li a, .in ul li a {color: #555!important;}
+.collapsing ul li a:hover, .in ul li a:hover {color: #f1f1f1!important;}
+}*/
+#mainNavBar{
+	background-color: #08618E;
 }
